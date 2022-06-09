@@ -566,8 +566,10 @@ MonoBehaviour:
   - {fileID: 696777999}
   - {fileID: 447125904}
   - {fileID: 2072507946}
-  correct: {fileID: 0}
-  incorrect: {fileID: 0}
+  correct: 0
+  incorrect: 0
+  textCorrect: {fileID: 172002355}
+  textIncorrect: {fileID: 2035630250}
 --- !u!1 &429024820
 GameObject:
   m_ObjectHideFlags: 0
